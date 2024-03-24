@@ -213,11 +213,11 @@ p {
     .answer:hover {
         background-color: var(--Dark_purple_color);
         color: var(--purple_color);
-        padding: 1.5rem;
-        font-size: 2rem;
+        padding: 1rem;
+        font-size: 1.3rem;
         width: 90%;
         border-radius: 3rem;
-        margin: 3rem;
+        margin: 1rem;
 
     }
 }
