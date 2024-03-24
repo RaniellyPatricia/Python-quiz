@@ -117,7 +117,7 @@ p {
     font-weight: bold;   
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1040px) {
     .container-inicial {
         width: 90%;
         height: 70%;
